@@ -1,5 +1,5 @@
 {
-  "name": "heroku-vless",
+  "name": "dgthfd",
   "description": "Deploy vless on Heroku.",
   "keywords": [
     "vless"
@@ -7,7 +7,7 @@
   "env": {
     "UUID": {
       "description": "VLESS UUID",
-      "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb109"
+      "value": "b5871592-7bcf-4ee0-8700-72ec68494c41"
     }
   },
   "website": "https://github.com/dsgedhtrrt/hrthjytjty",
